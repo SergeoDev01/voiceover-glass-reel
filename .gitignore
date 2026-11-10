@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Compiled Swift binaries (run scripts/build_tools.sh)
+scripts/bin/
+
+# AE projects and renders
+*.aep
+out/
+work/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backups
+*.bak
+*.zip
